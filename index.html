@@ -246,6 +246,11 @@
         let sectionFilter = 'all';
         let searchQuery = '';
 
+        // Helper to get a unique key for subtopic progress storage
+        function getSubtopicKey(secName, taskNum, stId) {
+            return `${secName}_${taskNum}_${stId}`;
+        }
+
         // Load data on startup: fetch ege_data.json and merge with localStorage progress if exists
         async function loadData() {
             try {
@@ -256,8 +261,7 @@
                 // Check if we have saved progress in localStorage
                 const savedProgress = localStorage.getItem('ege_tracker_solved_progress_2026');
                 if (savedProgress) {
-                    const solvedMap = JSON.parse(savedProgress); // format: { subtopicId: solvedCount }
-                    // Apply solved counts to serverData structure
+                    const solvedMap = JSON.parse(savedProgress);
                     Object.keys(serverData.subjects).forEach(sKey => {
                         const subj = serverData.subjects[sKey];
                         if (subj.sections) {
@@ -266,7 +270,11 @@
                                     sec.tasks.forEach(task => {
                                         if (task.subtopics) {
                                             task.subtopics.forEach(st => {
-                                                if (solvedMap[st.id] !== undefined) {
+                                                const uniqueKey = getSubtopicKey(sec.name, task.number, st.id);
+                                                if (solvedMap[uniqueKey] !== undefined) {
+                                                    st.solved = solvedMap[uniqueKey];
+                                                } else if (solvedMap[st.id] !== undefined) {
+                                                    // Fallback for older localStorage formats
                                                     st.solved = solvedMap[st.id];
                                                 }
                                             });
@@ -288,14 +296,14 @@
         // Save progress to localStorage and trigger re-render
         function saveState() {
             if (!appData) return;
-            // Collect all solved counts into a lightweight map for localStorage
             const solvedMap = {};
             Object.keys(appData.subjects).forEach(sKey => {
                 const subj = appData.subjects[sKey];
                 subj.sections.forEach(sec => {
                     sec.tasks.forEach(task => {
                         task.subtopics.forEach(st => {
-                            solvedMap[st.id] = st.solved;
+                            const uniqueKey = getSubtopicKey(sec.name, task.number, st.id);
+                            solvedMap[uniqueKey] = st.solved;
                         });
                     });
                 });
@@ -327,7 +335,6 @@
                     const imported = JSON.parse(e.target.result);
                     if (imported && imported.subjects) {
                         appData = imported;
-                        // Extract solved to localStorage as well
                         saveState();
                         showToast("Данные успешно импортированы и синхронизированы!");
                     } else {
@@ -372,47 +379,57 @@
             render();
         }
 
-        function updateSolved(subtopicId, delta) {
+        function updateSolved(secName, taskNum, subtopicId, delta) {
             if (!appData) return;
             const subject = appData.subjects[activeSubjectKey];
             subject.sections.forEach(sec => {
-                sec.tasks.forEach(task => {
-                    task.subtopics.forEach(st => {
-                        if (st.id === subtopicId) {
-                            let newVal = st.solved + delta;
-                            if (newVal < 0) newVal = 0;
-                            if (newVal > st.total) newVal = st.total;
-                            st.solved = newVal;
+                if (sec.name === secName) {
+                    sec.tasks.forEach(task => {
+                        if (task.number === taskNum) {
+                            task.subtopics.forEach(st => {
+                                if (st.id === subtopicId) {
+                                    let newVal = st.solved + delta;
+                                    if (newVal < 0) newVal = 0;
+                                    if (newVal > st.total) newVal = st.total;
+                                    st.solved = newVal;
+                                }
+                            });
                         }
                     });
-                });
+                }
             });
             saveState();
         }
 
-        function setSolvedDirect(subtopicId, value) {
+        function setSolvedDirect(secName, taskNum, subtopicId, value) {
             if (!appData) return;
             const subject = appData.subjects[activeSubjectKey];
             let val = parseInt(value) || 0;
             subject.sections.forEach(sec => {
-                sec.tasks.forEach(task => {
-                    task.subtopics.forEach(st => {
-                        if (st.id === subtopicId) {
-                            if (val < 0) val = 0;
-                            if (val > st.total) val = st.total;
-                            st.solved = val;
+                if (sec.name === secName) {
+                    sec.tasks.forEach(task => {
+                        if (task.number === taskNum) {
+                            task.subtopics.forEach(st => {
+                                if (st.id === subtopicId) {
+                                    if (val < 0) val = 0;
+                                    if (val > st.total) val = st.total;
+                                    st.solved = val;
+                                }
+                            });
                         }
                     });
-                });
+                }
             });
             saveState();
         }
 
-        function deleteTask(taskId) {
+        function deleteTask(secName, taskId) {
             if (confirm("Удалить это задание полностью?")) {
                 const subject = appData.subjects[activeSubjectKey];
                 subject.sections.forEach(sec => {
-                    sec.tasks = sec.tasks.filter(t => t.id !== taskId);
+                    if (sec.name === secName) {
+                        sec.tasks = sec.tasks.filter(t => t.id !== taskId);
+                    }
                 });
                 saveState();
                 showToast("Задание удалено");
@@ -444,23 +461,24 @@
             }
 
             let existingTask = targetSection.tasks.find(t => t.number === taskNum);
+            const secPrefix = sectionName === 'Первая часть' ? 'p1' : 'p2';
 
             if (existingTask) {
                 existingTask.subtopics.push({
-                    id: `${activeSubjectKey}-${taskNum}-sub-${Date.now()}`,
+                    id: `${activeSubjectKey}-${secPrefix}-${taskNum}-sub-${Date.now()}`,
                     name: subtopicName,
                     total: subtopicTotal,
                     solved: 0
                 });
             } else {
                 targetSection.tasks.push({
-                    id: `${activeSubjectKey}-${taskNum}`,
+                    id: `${activeSubjectKey}-${secPrefix}-${taskNum}`,
                     number: taskNum,
                     title: taskTitle,
                     total: subtopicTotal,
                     subtopics: [
                         {
-                            id: `${activeSubjectKey}-${taskNum}-sub-1`,
+                            id: `${activeSubjectKey}-${secPrefix}-${taskNum}-sub-1`,
                             name: subtopicName,
                             total: subtopicTotal,
                             solved: 0
@@ -603,11 +621,11 @@
                                     </div>
                                     
                                     <div class="flex items-center space-x-1 bg-gray-900 border border-gray-700/80 rounded-xl px-2 py-1 shadow-inner">
-                                        <button onclick="updateSolved('${st.id}', -1)" class="w-6 h-6 flex items-center justify-center text-gray-400 hover:text-white font-bold transition">−</button>
+                                        <button onclick="updateSolved('${sec.name}', ${task.number}, '${st.id}', -1)" class="w-6 h-6 flex items-center justify-center text-gray-400 hover:text-white font-bold transition">−</button>
                                         <input type="number" value="${st.solved}" min="0" max="${st.total}" 
-                                            onchange="setSolvedDirect('${st.id}', this.value)"
+                                            onchange="setSolvedDirect('${sec.name}', ${task.number}, '${st.id}', this.value)"
                                             class="w-12 bg-transparent text-center text-xs font-bold text-blue-400 focus:outline-none">
-                                        <button onclick="updateSolved('${st.id}', 1)" class="w-6 h-6 flex items-center justify-center text-gray-400 hover:text-white font-bold transition">+</button>
+                                        <button onclick="updateSolved('${sec.name}', ${task.number}, '${st.id}', 1)" class="w-6 h-6 flex items-center justify-center text-gray-400 hover:text-white font-bold transition">+</button>
                                     </div>
 
                                     <div class="text-right w-24">
@@ -633,7 +651,7 @@
                                 <span class="text-xs font-semibold text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-3 py-1 rounded-lg">
                                     Прогресс: ${taskPct}%
                                 </span>
-                                <button onclick="deleteTask('${task.id}')" class="text-gray-500 hover:text-red-400 transition" title="Удалить задание">
+                                <button onclick="deleteTask('${sec.name}', '${task.id}')" class="text-gray-500 hover:text-red-400 transition" title="Удалить задание">
                                     <svg class="w-4 h-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
                                 </button>
                             </div>
