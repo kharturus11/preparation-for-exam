@@ -35,28 +35,28 @@
                   "id": "physics-1-sub-1",
                   "name": "Равнопеременное движение. Ускорение тела",
                   "total": 106,
-                  "solved": 0,
+                  "solved": 57,
                   "input_max": 106
                 },
                 {
                   "id": "physics-1-sub-2",
                   "name": "Нахождение величин по графику",
                   "total": 84,
-                  "solved": 0,
+                  "solved": 32,
                   "input_max": 84
                 },
                 {
                   "id": "physics-1-sub-3",
                   "name": "Равномерное прямолинейное движение",
                   "total": 14,
-                  "solved": 0,
+                  "solved": 11,
                   "input_max": 14
                 },
                 {
                   "id": "physics-1-sub-4",
                   "name": "Относительность движения",
                   "total": 11,
-                  "solved": 0,
+                  "solved": 9,
                   "input_max": 11
                 }
               ],
@@ -73,14 +73,14 @@
                   "id": "physics-2-sub-1",
                   "name": "Сила трения",
                   "total": 42,
-                  "solved": 0,
+                  "solved": 21,
                   "input_max": 42
                 },
                 {
                   "id": "physics-2-sub-2",
                   "name": "Закон всемирного тяготения",
                   "total": 47,
-                  "solved": 0,
+                  "solved": 7,
                   "input_max": 47
                 },
                 {
