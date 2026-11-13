@@ -104,7 +104,7 @@
                 </div>
                 <div>
                     <span class="font-bold text-white">Синхронизация (ПК ⇄ Телефон):</span>
-                    <p class="text-gray-300 mt-0.5">Данные подгружаются из <code class="bg-gray-900 px-1.5 py-0.5 rounded text-blue-300">ege_data.json</code> и сохраняются локально. Для переноса прогресса, избранного и словарных слов используйте <strong>«Экспорт JSON»</strong> и <strong>«Импорт JSON»</strong>.</p>
+                    <p class="text-gray-300 mt-0.5">Данные подгружаются из <code class="bg-gray-900 px-1.5 py-0.5 rounded text-blue-300">ege_data.json</code> и сохраняются локально. Для переноса прогресса используйте <strong>«Экспорт JSON»</strong> и <strong>«Импорт JSON»</strong>.</p>
                 </div>
             </div>
         </div>
@@ -184,7 +184,7 @@
         <p>ЕГЭ Трекер PRO 2026 • Синхронизация через ege_data.json и LocalStorage</p>
     </footer>
 
-    <!-- Custom Add Favorite Modal (Replaces native browser prompt) -->
+    <!-- Custom Add Favorite Modal -->
     <div id="favorite-modal" onclick="if(event.target === this) closeFavoriteModal()" class="fixed inset-0 z-50 bg-black/80 backdrop-blur-sm flex items-center justify-center p-4 hidden">
         <div class="bg-cardBg border border-gray-800 rounded-2xl max-w-md w-full p-6 shadow-2xl space-y-4 relative">
             <div class="flex items-center justify-between border-b border-gray-800 pb-3">
@@ -219,7 +219,7 @@
         </div>
     </div>
 
-    <!-- Task Overlay Viewer Modal (Opens task on top with browser back arrow support) -->
+    <!-- Task Overlay Viewer Modal -->
     <div id="task-overlay" class="fixed inset-0 z-50 bg-black/85 backdrop-blur-md flex flex-col hidden">
         <div class="bg-gray-900 border-b border-gray-800 px-4 py-3 flex items-center justify-between">
             <div class="flex items-center space-x-3 truncate">
@@ -227,7 +227,7 @@
                 <span id="overlay-url-text" class="text-xs text-gray-300 truncate font-mono"></span>
             </div>
             <div class="flex items-center space-x-2">
-                <a id="overlay-external-link" href="#" target="_blank" class="px-3 py-1.5 rounded-lg bg-gray-800 hover:bg-gray-700 text-gray-200 text-xs font-medium transition flex items-center space-x-1" title="Открыть в новой вкладке, если сайт блокирует встраивание">
+                <a id="overlay-external-link" href="#" target="_blank" class="px-3 py-1.5 rounded-lg bg-gray-800 hover:bg-gray-700 text-gray-200 text-xs font-medium transition flex items-center space-x-1" title="Открыть в новой вкладке">
                     <svg class="w-3.5 h-3.5 text-blue-400" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path></svg>
                     <span class="hidden sm:inline">В новой вкладке</span>
                 </a>
@@ -417,7 +417,7 @@
             render();
         }
 
-        // Custom Modal for Adding Favorites
+        // Custom Modal for Adding Favorites with scroll lock
         function openFavoriteModal(subtopicId) {
             const st = findSubtopic(subtopicId);
             if (!st) return;
@@ -430,12 +430,14 @@
             input.value = '';
             err.classList.add('hidden');
             document.getElementById('favorite-modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
             setTimeout(() => input.focus(), 50);
         }
 
         function closeFavoriteModal() {
             currentFavSubtopicId = null;
             document.getElementById('favorite-modal').classList.add('hidden');
+            document.body.style.overflow = '';
         }
 
         function confirmAddFavorite() {
@@ -508,7 +510,7 @@
             return html;
         }
 
-        // Task Overlay Viewer with History API
+        // Task Overlay Viewer with History API and scroll lock
         function openTaskOverlay(url) {
             const modal = document.getElementById('task-overlay');
             const iframe = document.getElementById('task-iframe');
@@ -529,6 +531,7 @@
             };
 
             modal.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
             history.pushState({ modalOpen: true }, '', '#task-view');
         }
 
@@ -536,6 +539,7 @@
             const modal = document.getElementById('task-overlay');
             modal.classList.add('hidden');
             document.getElementById('task-iframe').src = '';
+            document.body.style.overflow = '';
             if (window.location.hash === '#task-view') {
                 history.back();
             }
@@ -546,6 +550,7 @@
             if (modal && !modal.classList.contains('hidden')) {
                 modal.classList.add('hidden');
                 document.getElementById('task-iframe').src = '';
+                document.body.style.overflow = '';
             }
         });
 
@@ -667,10 +672,12 @@
 
         function openAddBlockModal() {
             document.getElementById('modal').classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
         }
 
         function closeModal() {
             document.getElementById('modal').classList.add('hidden');
+            document.body.style.overflow = '';
         }
 
         function saveNewTaskOrSubtopic() {
