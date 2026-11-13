@@ -36,28 +36,32 @@
                   "name": "Равнопеременное движение. Ускорение тела",
                   "total": 106,
                   "solved": 57,
-                  "input_max": 106
+                  "input_max": 106,
+                  "favorites": []
                 },
                 {
                   "id": "physics-1-sub-2",
                   "name": "Нахождение величин по графику",
                   "total": 84,
                   "solved": 32,
-                  "input_max": 84
+                  "input_max": 84,
+                  "favorites": []
                 },
                 {
                   "id": "physics-1-sub-3",
                   "name": "Равномерное прямолинейное движение",
                   "total": 14,
                   "solved": 11,
-                  "input_max": 14
+                  "input_max": 14,
+                  "favorites": []
                 },
                 {
                   "id": "physics-1-sub-4",
                   "name": "Относительность движения",
                   "total": 11,
                   "solved": 9,
-                  "input_max": 11
+                  "input_max": 11,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 215
@@ -74,35 +78,40 @@
                   "name": "Сила трения",
                   "total": 42,
                   "solved": 21,
-                  "input_max": 42
+                  "input_max": 42,
+                  "favorites": []
                 },
                 {
                   "id": "physics-2-sub-2",
                   "name": "Закон всемирного тяготения",
                   "total": 47,
                   "solved": 7,
-                  "input_max": 47
+                  "input_max": 47,
+                  "favorites": []
                 },
                 {
                   "id": "physics-2-sub-3",
                   "name": "Динамика и законы Ньютона",
                   "total": 97,
                   "solved": 0,
-                  "input_max": 97
+                  "input_max": 97,
+                  "favorites": []
                 },
                 {
                   "id": "physics-2-sub-4",
                   "name": "Упругость и закон Гука",
                   "total": 59,
                   "solved": 0,
-                  "input_max": 59
+                  "input_max": 59,
+                  "favorites": []
                 },
                 {
                   "id": "physics-2-sub-5",
                   "name": "Равнодействующая сил",
                   "total": 20,
                   "solved": 0,
-                  "input_max": 20
+                  "input_max": 20,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 265
@@ -119,28 +128,32 @@
                   "name": "Закон сохранения импульса, второй закон Ньютона в импульсной форме",
                   "total": 54,
                   "solved": 0,
-                  "input_max": 54
+                  "input_max": 54,
+                  "favorites": []
                 },
                 {
                   "id": "physics-3-sub-2",
                   "name": "Импульс и закон сохранения импульса",
                   "total": 73,
                   "solved": 0,
-                  "input_max": 73
+                  "input_max": 73,
+                  "favorites": []
                 },
                 {
                   "id": "physics-3-sub-3",
                   "name": "Энергия и закон сохранения энергии",
                   "total": 89,
                   "solved": 0,
-                  "input_max": 89
+                  "input_max": 89,
+                  "favorites": []
                 },
                 {
                   "id": "physics-3-sub-4",
                   "name": "Работа и мощность",
                   "total": 30,
                   "solved": 0,
-                  "input_max": 30
+                  "input_max": 30,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 246
@@ -157,28 +170,32 @@
                   "name": "Волны",
                   "total": 62,
                   "solved": 0,
-                  "input_max": 62
+                  "input_max": 62,
+                  "favorites": []
                 },
                 {
                   "id": "physics-4-sub-2",
                   "name": "Статика. Равновесие тел",
                   "total": 24,
                   "solved": 0,
-                  "input_max": 24
+                  "input_max": 24,
+                  "favorites": []
                 },
                 {
                   "id": "physics-4-sub-3",
                   "name": "Гидростатика: закон Паскаля и сила Архимеда",
                   "total": 45,
                   "solved": 0,
-                  "input_max": 45
+                  "input_max": 45,
+                  "favorites": []
                 },
                 {
                   "id": "physics-4-sub-4",
                   "name": "Колебания",
                   "total": 58,
                   "solved": 0,
-                  "input_max": 58
+                  "input_max": 58,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 189
@@ -195,35 +212,40 @@
                   "name": "Динамика",
                   "total": 85,
                   "solved": 0,
-                  "input_max": 85
+                  "input_max": 85,
+                  "favorites": []
                 },
                 {
                   "id": "physics-5-sub-2",
                   "name": "Законы сохранения",
                   "total": 14,
                   "solved": 0,
-                  "input_max": 14
+                  "input_max": 14,
+                  "favorites": []
                 },
                 {
                   "id": "physics-5-sub-3",
                   "name": "Кинематика",
                   "total": 62,
                   "solved": 0,
-                  "input_max": 62
+                  "input_max": 62,
+                  "favorites": []
                 },
                 {
                   "id": "physics-5-sub-4",
                   "name": "Колебания и волны",
                   "total": 51,
                   "solved": 0,
-                  "input_max": 51
+                  "input_max": 51,
+                  "favorites": []
                 },
                 {
                   "id": "physics-5-sub-5",
                   "name": "Статика и гидростатика",
                   "total": 18,
                   "solved": 0,
-                  "input_max": 18
+                  "input_max": 18,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 230
@@ -240,35 +262,40 @@
                   "name": "Динамика",
                   "total": 44,
                   "solved": 0,
-                  "input_max": 44
+                  "input_max": 44,
+                  "favorites": []
                 },
                 {
                   "id": "physics-6-sub-2",
                   "name": "Законы сохранения",
                   "total": 12,
                   "solved": 0,
-                  "input_max": 12
+                  "input_max": 12,
+                  "favorites": []
                 },
                 {
                   "id": "physics-6-sub-3",
                   "name": "Кинематика",
                   "total": 38,
                   "solved": 0,
-                  "input_max": 38
+                  "input_max": 38,
+                  "favorites": []
                 },
                 {
                   "id": "physics-6-sub-4",
                   "name": "Колебания и волны",
                   "total": 22,
                   "solved": 0,
-                  "input_max": 22
+                  "input_max": 22,
+                  "favorites": []
                 },
                 {
                   "id": "physics-6-sub-5",
                   "name": "Статика и гидростатика",
                   "total": 23,
                   "solved": 0,
-                  "input_max": 23
+                  "input_max": 23,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 139
@@ -285,21 +312,24 @@
                   "name": "МКТ",
                   "total": 89,
                   "solved": 0,
-                  "input_max": 89
+                  "input_max": 89,
+                  "favorites": []
                 },
                 {
                   "id": "physics-7-sub-2",
                   "name": "Уравнение состояния идеального газа",
                   "total": 55,
                   "solved": 0,
-                  "input_max": 55
+                  "input_max": 55,
+                  "favorites": []
                 },
                 {
                   "id": "physics-7-sub-3",
                   "name": "Газовые законы",
                   "total": 36,
                   "solved": 0,
-                  "input_max": 36
+                  "input_max": 36,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 180
@@ -316,14 +346,16 @@
                   "name": "Термодинамика",
                   "total": 140,
                   "solved": 0,
-                  "input_max": 140
+                  "input_max": 140,
+                  "favorites": []
                 },
                 {
                   "id": "physics-8-sub-2",
                   "name": "Тепловая физика",
                   "total": 33,
                   "solved": 0,
-                  "input_max": 33
+                  "input_max": 33,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 173
@@ -340,28 +372,32 @@
                   "name": "Влажность",
                   "total": 38,
                   "solved": 0,
-                  "input_max": 38
+                  "input_max": 38,
+                  "favorites": []
                 },
                 {
                   "id": "physics-9-sub-2",
                   "name": "Термодинамика",
                   "total": 81,
                   "solved": 0,
-                  "input_max": 81
+                  "input_max": 81,
+                  "favorites": []
                 },
                 {
                   "id": "physics-9-sub-3",
                   "name": "Тепловая физика",
                   "total": 33,
                   "solved": 0,
-                  "input_max": 33
+                  "input_max": 33,
+                  "favorites": []
                 },
                 {
                   "id": "physics-9-sub-4",
                   "name": "Молекулярная физика",
                   "total": 50,
                   "solved": 0,
-                  "input_max": 50
+                  "input_max": 50,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 202
@@ -378,28 +414,32 @@
                   "name": "Влажность",
                   "total": 16,
                   "solved": 0,
-                  "input_max": 16
+                  "input_max": 16,
+                  "favorites": []
                 },
                 {
                   "id": "physics-10-sub-2",
                   "name": "Термодинамика",
                   "total": 110,
                   "solved": 0,
-                  "input_max": 110
+                  "input_max": 110,
+                  "favorites": []
                 },
                 {
                   "id": "physics-10-sub-3",
                   "name": "Тепловая физика",
                   "total": 36,
                   "solved": 0,
-                  "input_max": 36
+                  "input_max": 36,
+                  "favorites": []
                 },
                 {
                   "id": "physics-10-sub-4",
                   "name": "Молекулярная физика",
                   "total": 43,
                   "solved": 0,
-                  "input_max": 43
+                  "input_max": 43,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 205
@@ -416,21 +456,24 @@
                   "name": "Электрическое поле",
                   "total": 64,
                   "solved": 0,
-                  "input_max": 64
+                  "input_max": 64,
+                  "favorites": []
                 },
                 {
                   "id": "physics-11-sub-2",
                   "name": "Конденсаторы",
                   "total": 21,
                   "solved": 0,
-                  "input_max": 21
+                  "input_max": 21,
+                  "favorites": []
                 },
                 {
                   "id": "physics-11-sub-3",
                   "name": "Постоянный ток",
                   "total": 151,
                   "solved": 0,
-                  "input_max": 151
+                  "input_max": 151,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 236
@@ -447,21 +490,24 @@
                   "name": "Магнитное поле",
                   "total": 102,
                   "solved": 0,
-                  "input_max": 102
+                  "input_max": 102,
+                  "favorites": []
                 },
                 {
                   "id": "physics-12-sub-2",
                   "name": "Электромагнитная индукция",
                   "total": 86,
                   "solved": 0,
-                  "input_max": 86
+                  "input_max": 86,
+                  "favorites": []
                 },
                 {
                   "id": "physics-12-sub-3",
                   "name": "Катушки индуктивности",
                   "total": 36,
                   "solved": 0,
-                  "input_max": 36
+                  "input_max": 36,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 224
@@ -478,28 +524,32 @@
                   "name": "Электромагнитные колебания",
                   "total": 86,
                   "solved": 0,
-                  "input_max": 86
+                  "input_max": 86,
+                  "favorites": []
                 },
                 {
                   "id": "physics-13-sub-2",
                   "name": "Геометрическая оптика",
                   "total": 15,
                   "solved": 0,
-                  "input_max": 15
+                  "input_max": 15,
+                  "favorites": []
                 },
                 {
                   "id": "physics-13-sub-3",
                   "name": "Законы преломления и отражения света",
                   "total": 112,
                   "solved": 0,
-                  "input_max": 112
+                  "input_max": 112,
+                  "favorites": []
                 },
                 {
                   "id": "physics-13-sub-4",
                   "name": "Тонкие линзы",
                   "total": 27,
                   "solved": 0,
-                  "input_max": 27
+                  "input_max": 27,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 240
@@ -516,49 +566,56 @@
                   "name": "Оптика",
                   "total": 39,
                   "solved": 0,
-                  "input_max": 39
+                  "input_max": 39,
+                  "favorites": []
                 },
                 {
                   "id": "physics-14-sub-2",
                   "name": "Магнитное поле",
                   "total": 22,
                   "solved": 0,
-                  "input_max": 22
+                  "input_max": 22,
+                  "favorites": []
                 },
                 {
                   "id": "physics-14-sub-3",
                   "name": "Электрическое поле",
                   "total": 47,
                   "solved": 0,
-                  "input_max": 47
+                  "input_max": 47,
+                  "favorites": []
                 },
                 {
                   "id": "physics-14-sub-4",
                   "name": "Конденсаторы",
                   "total": 19,
                   "solved": 0,
-                  "input_max": 19
+                  "input_max": 19,
+                  "favorites": []
                 },
                 {
                   "id": "physics-14-sub-5",
                   "name": "Постоянный ток",
                   "total": 17,
                   "solved": 0,
-                  "input_max": 17
+                  "input_max": 17,
+                  "favorites": []
                 },
                 {
                   "id": "physics-14-sub-6",
                   "name": "Электромагнитная индукция",
                   "total": 51,
                   "solved": 0,
-                  "input_max": 51
+                  "input_max": 51,
+                  "favorites": []
                 },
                 {
                   "id": "physics-14-sub-7",
                   "name": "Электромагнитные колебания",
                   "total": 45,
                   "solved": 0,
-                  "input_max": 45
+                  "input_max": 45,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 240
@@ -575,49 +632,56 @@
                   "name": "Оптика",
                   "total": 57,
                   "solved": 0,
-                  "input_max": 57
+                  "input_max": 57,
+                  "favorites": []
                 },
                 {
                   "id": "physics-15-sub-2",
                   "name": "Магнитное поле",
                   "total": 47,
                   "solved": 0,
-                  "input_max": 47
+                  "input_max": 47,
+                  "favorites": []
                 },
                 {
                   "id": "physics-15-sub-3",
                   "name": "Электрическое поле",
                   "total": 23,
                   "solved": 0,
-                  "input_max": 23
+                  "input_max": 23,
+                  "favorites": []
                 },
                 {
                   "id": "physics-15-sub-4",
                   "name": "Конденсаторы",
                   "total": 30,
                   "solved": 0,
-                  "input_max": 30
+                  "input_max": 30,
+                  "favorites": []
                 },
                 {
                   "id": "physics-15-sub-5",
                   "name": "Постоянный ток",
                   "total": 46,
                   "solved": 0,
-                  "input_max": 46
+                  "input_max": 46,
+                  "favorites": []
                 },
                 {
                   "id": "physics-15-sub-6",
                   "name": "Электромагнитная индукция",
                   "total": 10,
                   "solved": 0,
-                  "input_max": 10
+                  "input_max": 10,
+                  "favorites": []
                 },
                 {
                   "id": "physics-15-sub-7",
                   "name": "Электромагнитные колебания",
                   "total": 50,
                   "solved": 0,
-                  "input_max": 50
+                  "input_max": 50,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 263
@@ -634,21 +698,24 @@
                   "name": "Квантовая физика",
                   "total": 39,
                   "solved": 0,
-                  "input_max": 39
+                  "input_max": 39,
+                  "favorites": []
                 },
                 {
                   "id": "physics-16-sub-2",
                   "name": "Строение атома",
                   "total": 57,
                   "solved": 0,
-                  "input_max": 57
+                  "input_max": 57,
+                  "favorites": []
                 },
                 {
                   "id": "physics-16-sub-3",
                   "name": "Распады и ядерные реакции",
                   "total": 141,
                   "solved": 0,
-                  "input_max": 141
+                  "input_max": 141,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 237
@@ -665,14 +732,16 @@
                   "name": "Квантовая физика",
                   "total": 139,
                   "solved": 0,
-                  "input_max": 139
+                  "input_max": 139,
+                  "favorites": []
                 },
                 {
                   "id": "physics-17-sub-2",
                   "name": "Ядерная физика",
                   "total": 57,
                   "solved": 0,
-                  "input_max": 57
+                  "input_max": 57,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 196
@@ -689,7 +758,8 @@
                   "name": "Теоретические утверждения",
                   "total": 237,
                   "solved": 0,
-                  "input_max": 200
+                  "input_max": 200,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 237
@@ -706,14 +776,16 @@
                   "name": "Погрешность прямых измерений",
                   "total": 125,
                   "solved": 0,
-                  "input_max": 125
+                  "input_max": 125,
+                  "favorites": []
                 },
                 {
                   "id": "physics-19-sub-2",
                   "name": "Погрешность косвенных измерений",
                   "total": 19,
                   "solved": 0,
-                  "input_max": 19
+                  "input_max": 19,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 144
@@ -730,7 +802,8 @@
                   "name": "Экспериментальное исследование",
                   "total": 219,
                   "solved": 0,
-                  "input_max": 200
+                  "input_max": 200,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 219
@@ -752,42 +825,48 @@
                   "name": "Электричество",
                   "total": 30,
                   "solved": 0,
-                  "input_max": 30
+                  "input_max": 30,
+                  "favorites": []
                 },
                 {
                   "id": "physics-21-sub-2",
                   "name": "Механика",
                   "total": 13,
                   "solved": 0,
-                  "input_max": 13
+                  "input_max": 13,
+                  "favorites": []
                 },
                 {
                   "id": "physics-21-sub-3",
                   "name": "МКТ и термодинамика",
                   "total": 55,
                   "solved": 0,
-                  "input_max": 55
+                  "input_max": 55,
+                  "favorites": []
                 },
                 {
                   "id": "physics-21-sub-4",
                   "name": "Магнитное поле",
                   "total": 12,
                   "solved": 0,
-                  "input_max": 12
+                  "input_max": 12,
+                  "favorites": []
                 },
                 {
                   "id": "physics-21-sub-5",
                   "name": "Электрическое поле",
                   "total": 23,
                   "solved": 0,
-                  "input_max": 23
+                  "input_max": 23,
+                  "favorites": []
                 },
                 {
                   "id": "physics-21-sub-6",
                   "name": "Электромагнитная индукция",
                   "total": 12,
                   "solved": 0,
-                  "input_max": 12
+                  "input_max": 12,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 145
@@ -804,42 +883,48 @@
                   "name": "Динамика",
                   "total": 44,
                   "solved": 0,
-                  "input_max": 44
+                  "input_max": 44,
+                  "favorites": []
                 },
                 {
                   "id": "physics-22-sub-2",
                   "name": "Законы сохранения",
                   "total": 27,
                   "solved": 0,
-                  "input_max": 27
+                  "input_max": 27,
+                  "favorites": []
                 },
                 {
                   "id": "physics-22-sub-3",
                   "name": "Статика",
                   "total": 8,
                   "solved": 0,
-                  "input_max": 8
+                  "input_max": 8,
+                  "favorites": []
                 },
                 {
                   "id": "physics-22-sub-4",
                   "name": "Кинематика",
                   "total": 34,
                   "solved": 0,
-                  "input_max": 34
+                  "input_max": 34,
+                  "favorites": []
                 },
                 {
                   "id": "physics-22-sub-5",
                   "name": "Колебания и волны",
                   "total": 11,
                   "solved": 0,
-                  "input_max": 11
+                  "input_max": 11,
+                  "favorites": []
                 },
                 {
                   "id": "physics-22-sub-6",
                   "name": "Гидростатика",
                   "total": 6,
                   "solved": 0,
-                  "input_max": 6
+                  "input_max": 6,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 130
@@ -856,70 +941,80 @@
                   "name": "Оптика",
                   "total": 39,
                   "solved": 0,
-                  "input_max": 39
+                  "input_max": 39,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-2",
                   "name": "Термодинамика",
                   "total": 23,
                   "solved": 0,
-                  "input_max": 23
+                  "input_max": 23,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-3",
                   "name": "Магнитное поле",
                   "total": 8,
                   "solved": 0,
-                  "input_max": 8
+                  "input_max": 8,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-4",
                   "name": "Тепловая физика",
                   "total": 16,
                   "solved": 0,
-                  "input_max": 16
+                  "input_max": 16,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-5",
                   "name": "Электрическое поле",
                   "total": 15,
                   "solved": 0,
-                  "input_max": 15
+                  "input_max": 15,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-6",
                   "name": "Конденсаторы",
                   "total": 8,
                   "solved": 0,
-                  "input_max": 8
+                  "input_max": 8,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-7",
                   "name": "Постоянный ток",
                   "total": 17,
                   "solved": 0,
-                  "input_max": 17
+                  "input_max": 17,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-8",
                   "name": "Электромагнитная индукция",
                   "total": 3,
                   "solved": 0,
-                  "input_max": 3
+                  "input_max": 3,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-9",
                   "name": "Электромагнитные колебания",
                   "total": 2,
                   "solved": 0,
-                  "input_max": 2
+                  "input_max": 2,
+                  "favorites": []
                 },
                 {
                   "id": "physics-23-sub-10",
                   "name": "МКТ и молекулярная физика",
                   "total": 9,
                   "solved": 0,
-                  "input_max": 9
+                  "input_max": 9,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 140
@@ -936,28 +1031,32 @@
                   "name": "Влажность",
                   "total": 14,
                   "solved": 0,
-                  "input_max": 14
+                  "input_max": 14,
+                  "favorites": []
                 },
                 {
                   "id": "physics-24-sub-2",
                   "name": "Термодинамика",
                   "total": 66,
                   "solved": 0,
-                  "input_max": 66
+                  "input_max": 66,
+                  "favorites": []
                 },
                 {
                   "id": "physics-24-sub-3",
                   "name": "Тепловая физика",
                   "total": 7,
                   "solved": 0,
-                  "input_max": 7
+                  "input_max": 7,
+                  "favorites": []
                 },
                 {
                   "id": "physics-24-sub-4",
                   "name": "МКТ и молекулярная физика",
                   "total": 9,
                   "solved": 0,
-                  "input_max": 9
+                  "input_max": 9,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 96
@@ -974,49 +1073,56 @@
                   "name": "Магнитное поле",
                   "total": 26,
                   "solved": 0,
-                  "input_max": 26
+                  "input_max": 26,
+                  "favorites": []
                 },
                 {
                   "id": "physics-25-sub-2",
                   "name": "Электрическое поле",
                   "total": 9,
                   "solved": 0,
-                  "input_max": 9
+                  "input_max": 9,
+                  "favorites": []
                 },
                 {
                   "id": "physics-25-sub-3",
                   "name": "Конденсаторы",
                   "total": 35,
                   "solved": 0,
-                  "input_max": 35
+                  "input_max": 35,
+                  "favorites": []
                 },
                 {
                   "id": "physics-25-sub-4",
                   "name": "Постоянный ток",
                   "total": 29,
                   "solved": 0,
-                  "input_max": 29
+                  "input_max": 29,
+                  "favorites": []
                 },
                 {
                   "id": "physics-25-sub-5",
                   "name": "Электромагнитная индукция",
                   "total": 17,
                   "solved": 0,
-                  "input_max": 17
+                  "input_max": 17,
+                  "favorites": []
                 },
                 {
                   "id": "physics-25-sub-6",
                   "name": "Электромагнитные колебания",
                   "total": 6,
                   "solved": 0,
-                  "input_max": 6
+                  "input_max": 6,
+                  "favorites": []
                 },
                 {
                   "id": "physics-25-sub-7",
                   "name": "Оптика — ход лучей",
                   "total": 7,
                   "solved": 0,
-                  "input_max": 7
+                  "input_max": 7,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 129
@@ -1033,35 +1139,40 @@
                   "name": "Динамика",
                   "total": 30,
                   "solved": 0,
-                  "input_max": 30
+                  "input_max": 30,
+                  "favorites": []
                 },
                 {
                   "id": "physics-26-sub-2",
                   "name": "Законы сохранения",
                   "total": 24,
                   "solved": 0,
-                  "input_max": 24
+                  "input_max": 24,
+                  "favorites": []
                 },
                 {
                   "id": "physics-26-sub-3",
                   "name": "Статика",
                   "total": 30,
                   "solved": 0,
-                  "input_max": 30
+                  "input_max": 30,
+                  "favorites": []
                 },
                 {
                   "id": "physics-26-sub-4",
                   "name": "Кинематические связи",
                   "total": 2,
                   "solved": 0,
-                  "input_max": 2
+                  "input_max": 2,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 86
             }
           ]
         }
-      ]
+      ],
+      "vocabularyWords": []
     },
     "mathematics": {
       "id": "mathematics",
@@ -1087,35 +1198,40 @@
                   "name": "Центральные и вписанные углы",
                   "total": 42,
                   "solved": 17,
-                  "input_max": 42
+                  "input_max": 42,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-1-sub-2",
                   "name": "Треугольники",
                   "total": 133,
                   "solved": 25,
-                  "input_max": 133
+                  "input_max": 133,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-1-sub-3",
                   "name": "Четырёхугольники",
                   "total": 58,
                   "solved": 16,
-                  "input_max": 58
+                  "input_max": 58,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-1-sub-4",
                   "name": "Вписанные и описанные четырёхугольники",
                   "total": 51,
                   "solved": 12,
-                  "input_max": 51
+                  "input_max": 51,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-1-sub-5",
                   "name": "Касательная к окружности",
                   "total": 16,
                   "solved": 7,
-                  "input_max": 16
+                  "input_max": 16,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 300
@@ -1132,14 +1248,16 @@
                   "name": "Операции над векторами. Длина вектора",
                   "total": 63,
                   "solved": 12,
-                  "input_max": 63
+                  "input_max": 63,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-2-sub-2",
                   "name": "Скалярное произведение векторов",
                   "total": 94,
                   "solved": 16,
-                  "input_max": 94
+                  "input_max": 94,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 157
@@ -1156,21 +1274,24 @@
                   "name": "Призма",
                   "total": 111,
                   "solved": 0,
-                  "input_max": 111
+                  "input_max": 111,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-3-sub-2",
                   "name": "Пирамида",
                   "total": 43,
                   "solved": 0,
-                  "input_max": 43
+                  "input_max": 43,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-3-sub-3",
                   "name": "Тела вращения",
                   "total": 176,
                   "solved": 0,
-                  "input_max": 176
+                  "input_max": 176,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 330
@@ -1187,21 +1308,24 @@
                   "name": "Теоремы о вероятностях событий",
                   "total": 28,
                   "solved": 0,
-                  "input_max": 28
+                  "input_max": 28,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-4-sub-2",
                   "name": "Классическое определение вероятности",
                   "total": 181,
                   "solved": 0,
-                  "input_max": 181
+                  "input_max": 181,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-4-sub-3",
                   "name": "Вероятность противоположного события",
                   "total": 66,
                   "solved": 0,
-                  "input_max": 66
+                  "input_max": 66,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 275
@@ -1218,14 +1342,16 @@
                   "name": "Независимые события",
                   "total": 90,
                   "solved": 0,
-                  "input_max": 90
+                  "input_max": 90,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-5-sub-2",
                   "name": "Зависимые события",
                   "total": 142,
                   "solved": 0,
-                  "input_max": 142
+                  "input_max": 142,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 232
@@ -1242,7 +1368,8 @@
                   "name": "Случайные величины и распределения вероятностей",
                   "total": 46,
                   "solved": 0,
-                  "input_max": 46
+                  "input_max": 46,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 46
@@ -1259,49 +1386,56 @@
                   "name": "Профильная математика",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-7-sub-2",
                   "name": "Показательные уравнения",
                   "total": 87,
                   "solved": 0,
-                  "input_max": 87
+                  "input_max": 87,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-7-sub-3",
                   "name": "Показательные уравнения (2 часть)",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-7-sub-4",
                   "name": "Дробно-рациональные уравнения",
                   "total": 28,
                   "solved": 0,
-                  "input_max": 28
+                  "input_max": 28,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-7-sub-5",
                   "name": "Логарифмические уравнения",
                   "total": 102,
                   "solved": 0,
-                  "input_max": 102
+                  "input_max": 102,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-7-sub-6",
                   "name": "Степенные уравнения",
                   "total": 32,
                   "solved": 0,
-                  "input_max": 32
+                  "input_max": 32,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-7-sub-7",
                   "name": "Иррациональные уравнения",
                   "total": 63,
                   "solved": 0,
-                  "input_max": 63
+                  "input_max": 63,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 314
@@ -1318,21 +1452,24 @@
                   "name": "Тригонометрические выражения",
                   "total": 147,
                   "solved": 0,
-                  "input_max": 147
+                  "input_max": 147,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-8-sub-2",
                   "name": "Степени и корни",
                   "total": 99,
                   "solved": 0,
-                  "input_max": 99
+                  "input_max": 99,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-8-sub-3",
                   "name": "Логарифмические выражения",
                   "total": 89,
                   "solved": 0,
-                  "input_max": 89
+                  "input_max": 89,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 335
@@ -1349,28 +1486,32 @@
                   "name": "Профильная математика",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-9-sub-2",
                   "name": "Геометрический смысл производной",
                   "total": 18,
                   "solved": 0,
-                  "input_max": 18
+                  "input_max": 18,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-9-sub-3",
                   "name": "Анализ графика функции",
                   "total": 29,
                   "solved": 0,
-                  "input_max": 29
+                  "input_max": 29,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-9-sub-4",
                   "name": "Анализ графика производной",
                   "total": 28,
                   "solved": 0,
-                  "input_max": 28
+                  "input_max": 28,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 76
@@ -1387,42 +1528,48 @@
                   "name": "Тригонометрические выражения",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-10-sub-2",
                   "name": "Дробно-линейная зависимость",
                   "total": 73,
                   "solved": 0,
-                  "input_max": 73
+                  "input_max": 73,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-10-sub-3",
                   "name": "Квадратичная зависимость",
                   "total": 70,
                   "solved": 0,
-                  "input_max": 70
+                  "input_max": 70,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-10-sub-4",
                   "name": "Степенная зависимость",
                   "total": 44,
                   "solved": 0,
-                  "input_max": 44
+                  "input_max": 44,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-10-sub-5",
                   "name": "Показательная зависимость",
                   "total": 15,
                   "solved": 0,
-                  "input_max": 15
+                  "input_max": 15,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-10-sub-6",
                   "name": "Логарифмическая зависимость",
                   "total": 18,
                   "solved": 0,
-                  "input_max": 18
+                  "input_max": 18,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 221
@@ -1439,35 +1586,40 @@
                   "name": "Задачи на движение по воде",
                   "total": 25,
                   "solved": 0,
-                  "input_max": 25
+                  "input_max": 25,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-11-sub-2",
                   "name": "Задачи на среднюю скорость",
                   "total": 41,
                   "solved": 0,
-                  "input_max": 41
+                  "input_max": 41,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-11-sub-3",
                   "name": "Задачи на работу",
                   "total": 62,
                   "solved": 0,
-                  "input_max": 62
+                  "input_max": 62,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-11-sub-4",
                   "name": "Задачи на проценты, сплавы, смеси, концентрацию",
                   "total": 65,
                   "solved": 0,
-                  "input_max": 65
+                  "input_max": 65,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-11-sub-5",
                   "name": "Задачи на движение по прямой",
                   "total": 53,
                   "solved": 0,
-                  "input_max": 53
+                  "input_max": 53,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 246
@@ -1484,35 +1636,40 @@
                   "name": "Прямая (линейная функция)",
                   "total": 23,
                   "solved": 0,
-                  "input_max": 23
+                  "input_max": 23,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-12-sub-2",
                   "name": "Парабола (квадратичная функция)",
                   "total": 28,
                   "solved": 0,
-                  "input_max": 28
+                  "input_max": 28,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-12-sub-3",
                   "name": "Гипербола (обратная пропорциональность)",
                   "total": 28,
                   "solved": 0,
-                  "input_max": 28
+                  "input_max": 28,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-12-sub-4",
                   "name": "Квадратный корень",
                   "total": 10,
                   "solved": 0,
-                  "input_max": 10
+                  "input_max": 10,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-12-sub-5",
                   "name": "Показательная и логарифмическая функции",
                   "total": 26,
                   "solved": 0,
-                  "input_max": 26
+                  "input_max": 26,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 115
@@ -1529,14 +1686,16 @@
                   "name": "Кредиты с аннуитетными платежами",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-13-sub-2",
                   "name": "Финансовая математика",
                   "total": 27,
                   "solved": 0,
-                  "input_max": 27
+                  "input_max": 27,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 28
@@ -1558,35 +1717,40 @@
                   "name": "Тригонометрические уравнения",
                   "total": 193,
                   "solved": 0,
-                  "input_max": 193
+                  "input_max": 193,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-14-sub-2",
                   "name": "Показательные уравнения (2 часть)",
                   "total": 15,
                   "solved": 0,
-                  "input_max": 15
+                  "input_max": 15,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-14-sub-3",
                   "name": "Логарифмические уравнения, сводящиеся к тригонометрическим",
                   "total": 13,
                   "solved": 0,
-                  "input_max": 13
+                  "input_max": 13,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-14-sub-4",
                   "name": "Показательные уравнения, сводящиеся к тригонометрическим",
                   "total": 29,
                   "solved": 0,
-                  "input_max": 29
+                  "input_max": 29,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-14-sub-5",
                   "name": "Логарифмические уравнения",
                   "total": 6,
                   "solved": 0,
-                  "input_max": 6
+                  "input_max": 6,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 256
@@ -1603,35 +1767,40 @@
                   "name": "Тригонометрические уравнения",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-16-sub-2",
                   "name": "Показательные неравенства",
                   "total": 72,
                   "solved": 0,
-                  "input_max": 72
+                  "input_max": 72,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-16-sub-3",
                   "name": "Иррациональные неравенства",
                   "total": 6,
                   "solved": 0,
-                  "input_max": 6
+                  "input_max": 6,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-16-sub-4",
                   "name": "Логарифмические неравенства",
                   "total": 102,
                   "solved": 0,
-                  "input_max": 102
+                  "input_max": 102,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-16-sub-5",
                   "name": "Смешанные неравенства",
                   "total": 92,
                   "solved": 0,
-                  "input_max": 92
+                  "input_max": 92,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 273
@@ -1648,7 +1817,8 @@
                   "name": "Прикладные задачи на оптимизацию",
                   "total": 32,
                   "solved": 0,
-                  "input_max": 32
+                  "input_max": 32,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 32
@@ -1665,42 +1835,48 @@
                   "name": "Разные задачи",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-19-sub-2",
                   "name": "Уравнения и системы уравнений с параметром",
                   "total": 42,
                   "solved": 0,
-                  "input_max": 42
+                  "input_max": 42,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-19-sub-3",
                   "name": "Уравнения и системы уравнений с модулем",
                   "total": 99,
                   "solved": 0,
-                  "input_max": 99
+                  "input_max": 99,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-19-sub-4",
                   "name": "Уравнения и системы уравнений с исследованием ОДЗ",
                   "total": 66,
                   "solved": 0,
-                  "input_max": 66
+                  "input_max": 66,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-19-sub-5",
                   "name": "Системы уравнений (параболы и окружности)",
                   "total": 9,
                   "solved": 0,
-                  "input_max": 9
+                  "input_max": 9,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-19-sub-6",
                   "name": "Системы неравенств",
                   "total": 13,
                   "solved": 0,
-                  "input_max": 13
+                  "input_max": 13,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 230
@@ -1717,49 +1893,56 @@
                   "name": "Разные задачи",
                   "total": 71,
                   "solved": 0,
-                  "input_max": 71
+                  "input_max": 71,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-20-sub-2",
                   "name": "Среднее арифметическое и наборы чисел",
                   "total": 79,
                   "solved": 0,
-                  "input_max": 79
+                  "input_max": 79,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-20-sub-3",
                   "name": "Процентные вычисления (средние баллы, доли)",
                   "total": 15,
                   "solved": 0,
-                  "input_max": 15
+                  "input_max": 15,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-20-sub-4",
                   "name": "Арифметика остатков и делимость",
                   "total": 19,
                   "solved": 0,
-                  "input_max": 19
+                  "input_max": 19,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-20-sub-5",
                   "name": "Числовые наборы",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 },
                 {
                   "id": "mathematics-20-sub-6",
                   "name": "Операции с числами и цифрами",
                   "total": 65,
                   "solved": 0,
-                  "input_max": 65
+                  "input_max": 65,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 250
             }
           ]
         }
-      ]
+      ],
+      "vocabularyWords": []
     },
     "informatics": {
       "id": "informatics",
@@ -1784,15 +1967,22 @@
                   "id": "informatics-1-sub-1",
                   "name": "Неоднозначное соотнесение таблицы и графа",
                   "total": 88,
-                  "solved": 3,
-                  "input_max": 88
+                  "solved": 23,
+                  "input_max": 88,
+                  "favorites": [
+                    {
+                      "id": "fav-mwf6nplb5l0y",
+                      "url": "https://100points.ru/bank/ege/informatics/task-80429/"
+                    }
+                  ]
                 },
                 {
                   "id": "informatics-1-sub-2",
                   "name": "Однозначное соотнесение таблицы и графа",
                   "total": 68,
                   "solved": 0,
-                  "input_max": 68
+                  "input_max": 68,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 156
@@ -1809,14 +1999,16 @@
                   "name": "Базовые случаи построения таблица истинности",
                   "total": 145,
                   "solved": 0,
-                  "input_max": 145
+                  "input_max": 145,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-2-sub-2",
                   "name": "Сложные случаи построения таблиц истинности",
                   "total": 5,
                   "solved": 0,
-                  "input_max": 5
+                  "input_max": 5,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 150
@@ -1833,7 +2025,8 @@
                   "name": "Задания на поиск и сортировку в базах данных",
                   "total": 168,
                   "solved": 0,
-                  "input_max": 168
+                  "input_max": 168,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 168
@@ -1850,7 +2043,8 @@
                   "name": "Задания на кодирование и декодирование информации",
                   "total": 174,
                   "solved": 0,
-                  "input_max": 174
+                  "input_max": 174,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 174
@@ -1867,21 +2061,24 @@
                   "name": "Двоичные преобразования",
                   "total": 74,
                   "solved": 0,
-                  "input_max": 74
+                  "input_max": 74,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-5-sub-2",
                   "name": "Другие системы счисления",
                   "total": 61,
                   "solved": 0,
-                  "input_max": 61
+                  "input_max": 61,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-5-sub-3",
                   "name": "Десятичные преобразования",
                   "total": 18,
                   "solved": 0,
-                  "input_max": 18
+                  "input_max": 18,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 153
@@ -1898,7 +2095,8 @@
                   "name": "Циклические программы для исполнителя Черепаха",
                   "total": 150,
                   "solved": 0,
-                  "input_max": 150
+                  "input_max": 150,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 150
@@ -1915,21 +2113,24 @@
                   "name": "Хранение и передача изображений",
                   "total": 81,
                   "solved": 0,
-                  "input_max": 81
+                  "input_max": 81,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-7-sub-2",
                   "name": "Хранение и передача звуковой информации",
                   "total": 60,
                   "solved": 0,
-                  "input_max": 60
+                  "input_max": 60,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-7-sub-3",
                   "name": "Другие случаи кодирования, хранения и передачи информации",
                   "total": 21,
                   "solved": 0,
-                  "input_max": 21
+                  "input_max": 21,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 162
@@ -1946,21 +2147,24 @@
                   "name": "Подсчет количества различных последовательностей",
                   "total": 73,
                   "solved": 0,
-                  "input_max": 73
+                  "input_max": 73,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-8-sub-2",
                   "name": "Упорядоченные последовательности",
                   "total": 57,
                   "solved": 0,
-                  "input_max": 57
+                  "input_max": 57,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-8-sub-3",
                   "name": "Перестановка",
                   "total": 27,
                   "solved": 0,
-                  "input_max": 27
+                  "input_max": 27,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 157
@@ -1977,7 +2181,8 @@
                   "name": "Задания на обработку числовой информации в электронных таблицах",
                   "total": 172,
                   "solved": 0,
-                  "input_max": 172
+                  "input_max": 172,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 172
@@ -1994,28 +2199,32 @@
                   "name": "Определение размера, маски и адреса сети",
                   "total": 92,
                   "solved": 0,
-                  "input_max": 92
+                  "input_max": 92,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-10-sub-2",
                   "name": "Подсчет количества адресов в сети",
                   "total": 50,
                   "solved": 0,
-                  "input_max": 50
+                  "input_max": 50,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-10-sub-3",
                   "name": "Поиск IP-адреса с заданными условиями",
                   "total": 16,
                   "solved": 0,
-                  "input_max": 16
+                  "input_max": 16,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-10-sub-4",
                   "name": "Задания на поиск символов в текстовом документе",
                   "total": 12,
                   "solved": 0,
-                  "input_max": 12
+                  "input_max": 12,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 170
@@ -2032,7 +2241,8 @@
                   "name": "Задания на вычисление количества информации",
                   "total": 161,
                   "solved": 0,
-                  "input_max": 161
+                  "input_max": 161,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 161
@@ -2049,7 +2259,8 @@
                   "name": "Задания на машину Тьюринга",
                   "total": 160,
                   "solved": 0,
-                  "input_max": 160
+                  "input_max": 160,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 160
@@ -2066,35 +2277,40 @@
                   "name": "Поиск количества программ",
                   "total": 16,
                   "solved": 0,
-                  "input_max": 16
+                  "input_max": 16,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-13-sub-2",
                   "name": "Поиск количества программ с обязательным этапом",
                   "total": 43,
                   "solved": 0,
-                  "input_max": 43
+                  "input_max": 43,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-13-sub-3",
                   "name": "Поиск количества программ с избегаемым этапом",
                   "total": 14,
                   "solved": 0,
-                  "input_max": 14
+                  "input_max": 14,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-13-sub-4",
                   "name": "Поиск количества программ с обязательным и избегаемым этапами",
                   "total": 50,
                   "solved": 0,
-                  "input_max": 50
+                  "input_max": 50,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-13-sub-5",
                   "name": "Другие случаи динамического программирования",
                   "total": 30,
                   "solved": 0,
-                  "input_max": 30
+                  "input_max": 30,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 153
@@ -2111,21 +2327,24 @@
                   "name": "Неизвестные цифры в записи чисел в разных системах",
                   "total": 62,
                   "solved": 0,
-                  "input_max": 62
+                  "input_max": 62,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-14-sub-2",
                   "name": "Неизвестные числа в записи арифметического выражения",
                   "total": 33,
                   "solved": 0,
-                  "input_max": 33
+                  "input_max": 33,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-14-sub-3",
                   "name": "Представление арифметических выражений в разных системах счисления",
                   "total": 78,
                   "solved": 0,
-                  "input_max": 78
+                  "input_max": 78,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 173
@@ -2142,42 +2361,48 @@
                   "name": "Задания с отрезками",
                   "total": 27,
                   "solved": 0,
-                  "input_max": 27
+                  "input_max": 27,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-15-sub-2",
                   "name": "Задания на множества чисел",
                   "total": 14,
                   "solved": 0,
-                  "input_max": 14
+                  "input_max": 14,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-15-sub-3",
                   "name": "Задания с неравенствами",
                   "total": 45,
                   "solved": 0,
-                  "input_max": 45
+                  "input_max": 45,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-15-sub-4",
                   "name": "Задания с битовыми логическими операциями",
                   "total": 26,
                   "solved": 0,
-                  "input_max": 26
+                  "input_max": 26,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-15-sub-5",
                   "name": "Задания с проверкой на делимость",
                   "total": 14,
                   "solved": 0,
-                  "input_max": 14
+                  "input_max": 14,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-15-sub-6",
                   "name": "Смешанные и авторские прототипы на истинность логического выражение",
                   "total": 41,
                   "solved": 0,
-                  "input_max": 41
+                  "input_max": 41,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 167
@@ -2194,7 +2419,8 @@
                   "name": "Задания на вычисление значения рекурсивной функции",
                   "total": 162,
                   "solved": 0,
-                  "input_max": 162
+                  "input_max": 162,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 162
@@ -2211,7 +2437,8 @@
                   "name": "Задания на обработка целочисленных данных и проверку делимости",
                   "total": 177,
                   "solved": 0,
-                  "input_max": 177
+                  "input_max": 177,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 177
@@ -2228,14 +2455,16 @@
                   "name": "Построение оптимального маршрута",
                   "total": 168,
                   "solved": 0,
-                  "input_max": 168
+                  "input_max": 168,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-18-sub-2",
                   "name": "Другие случаи динамического программирования в электронных таблицах",
                   "total": 1,
                   "solved": 0,
-                  "input_max": 1
+                  "input_max": 1,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 169
@@ -2252,14 +2481,16 @@
                   "name": "Одна куча камней",
                   "total": 94,
                   "solved": 0,
-                  "input_max": 94
+                  "input_max": 94,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-19-sub-2",
                   "name": "Две кучи камней",
                   "total": 59,
                   "solved": 0,
-                  "input_max": 59
+                  "input_max": 59,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 153
@@ -2276,14 +2507,16 @@
                   "name": "Одна куча камней",
                   "total": 94,
                   "solved": 0,
-                  "input_max": 94
+                  "input_max": 94,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-20-sub-2",
                   "name": "Две кучи камней",
                   "total": 59,
                   "solved": 0,
-                  "input_max": 59
+                  "input_max": 59,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 153
@@ -2300,14 +2533,16 @@
                   "name": "Одна куча камней",
                   "total": 94,
                   "solved": 0,
-                  "input_max": 94
+                  "input_max": 94,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-21-sub-2",
                   "name": "Две кучи камней",
                   "total": 59,
                   "solved": 0,
-                  "input_max": 59
+                  "input_max": 59,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 153
@@ -2324,7 +2559,8 @@
                   "name": "Задания на многопроцессорные вычисления",
                   "total": 184,
                   "solved": 0,
-                  "input_max": 184
+                  "input_max": 184,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 184
@@ -2341,49 +2577,56 @@
                   "name": "Построение оптимального пути между вершинами",
                   "total": 22,
                   "solved": 0,
-                  "input_max": 22
+                  "input_max": 22,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-23-sub-2",
                   "name": "Определение количества различных путей между вершинами",
                   "total": 20,
                   "solved": 0,
-                  "input_max": 20
+                  "input_max": 20,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-23-sub-3",
                   "name": "Вычисление суммы длин всех путей между вершинами",
                   "total": 20,
                   "solved": 0,
-                  "input_max": 20
+                  "input_max": 20,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-23-sub-4",
                   "name": "Определение кратчайшего пути с ограничениями на посещение вершин",
                   "total": 40,
                   "solved": 0,
-                  "input_max": 40
+                  "input_max": 40,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-23-sub-5",
                   "name": "Определение кратчайшего пути с заданной чётностью количества рёбер",
                   "total": 40,
                   "solved": 0,
-                  "input_max": 40
+                  "input_max": 40,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-23-sub-6",
                   "name": "Определение самого длинного пути по сумме весов",
                   "total": 20,
                   "solved": 0,
-                  "input_max": 20
+                  "input_max": 20,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-23-sub-7",
                   "name": "Определение минимального или максимального количества рёбер в пути",
                   "total": 40,
                   "solved": 0,
-                  "input_max": 40
+                  "input_max": 40,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 202
@@ -2405,7 +2648,8 @@
                   "name": "Задания на обработку символьных строк",
                   "total": 172,
                   "solved": 0,
-                  "input_max": 172
+                  "input_max": 172,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 172
@@ -2422,14 +2666,16 @@
                   "name": "Соответствие маске",
                   "total": 74,
                   "solved": 0,
-                  "input_max": 74
+                  "input_max": 74,
+                  "favorites": []
                 },
                 {
                   "id": "informatics-25-sub-2",
                   "name": "Нахождение делителей. Простота числа",
                   "total": 90,
                   "solved": 0,
-                  "input_max": 90
+                  "input_max": 90,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 164
@@ -2446,7 +2692,8 @@
                   "name": "Задания на обработку данных с помощью сортировки",
                   "total": 147,
                   "solved": 0,
-                  "input_max": 147
+                  "input_max": 147,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 147
@@ -2463,14 +2710,16 @@
                   "name": "Кластеризация",
                   "total": 123,
                   "solved": 0,
-                  "input_max": 123
+                  "input_max": 123,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 123
             }
           ]
         }
-      ]
+      ],
+      "vocabularyWords": []
     },
     "russian": {
       "id": "russian",
@@ -2495,7 +2744,8 @@
                   "name": "Средства связи предложений в тексте",
                   "total": 173,
                   "solved": 0,
-                  "input_max": 173
+                  "input_max": 173,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 173
@@ -2512,7 +2762,8 @@
                   "name": "Определение лексического значения слова",
                   "total": 114,
                   "solved": 0,
-                  "input_max": 114
+                  "input_max": 114,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 114
@@ -2529,7 +2780,8 @@
                   "name": "Информационная обработка текстов различных стилей и жанров",
                   "total": 113,
                   "solved": 0,
-                  "input_max": 113
+                  "input_max": 113,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 113
@@ -2546,7 +2798,8 @@
                   "name": "Орфоэпические нормы",
                   "total": 285,
                   "solved": 0,
-                  "input_max": 285
+                  "input_max": 285,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 285
@@ -2563,7 +2816,8 @@
                   "name": "Употребление паронимов",
                   "total": 112,
                   "solved": 0,
-                  "input_max": 112
+                  "input_max": 112,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 112
@@ -2580,7 +2834,8 @@
                   "name": "Лексические нормы",
                   "total": 118,
                   "solved": 0,
-                  "input_max": 118
+                  "input_max": 118,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 118
@@ -2597,7 +2852,8 @@
                   "name": "Морфологические нормы",
                   "total": 160,
                   "solved": 0,
-                  "input_max": 160
+                  "input_max": 160,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 160
@@ -2614,7 +2870,8 @@
                   "name": "Синтаксические нормы",
                   "total": 138,
                   "solved": 0,
-                  "input_max": 138
+                  "input_max": 138,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 138
@@ -2631,7 +2888,8 @@
                   "name": "Правописание корней",
                   "total": 156,
                   "solved": 56,
-                  "input_max": 156
+                  "input_max": 156,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 156
@@ -2648,7 +2906,8 @@
                   "name": "Правописание приставок",
                   "total": 172,
                   "solved": 0,
-                  "input_max": 172
+                  "input_max": 172,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 172
@@ -2665,7 +2924,8 @@
                   "name": "Правописание суффиксов",
                   "total": 108,
                   "solved": 0,
-                  "input_max": 108
+                  "input_max": 108,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 108
@@ -2682,7 +2942,8 @@
                   "name": "Правописание личных окончаний глаголов и суффиксов причастий",
                   "total": 166,
                   "solved": 0,
-                  "input_max": 166
+                  "input_max": 166,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 166
@@ -2699,7 +2960,8 @@
                   "name": "Правописание НЕ и НИ с разными частями речи",
                   "total": 216,
                   "solved": 0,
-                  "input_max": 216
+                  "input_max": 216,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 216
@@ -2716,7 +2978,8 @@
                   "name": "Слитное, раздельное, дефисное написание слов",
                   "total": 120,
                   "solved": 0,
-                  "input_max": 120
+                  "input_max": 120,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 120
@@ -2733,7 +2996,8 @@
                   "name": "Правописание -Н-НН- в разных частях речи",
                   "total": 187,
                   "solved": 0,
-                  "input_max": 187
+                  "input_max": 187,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 187
@@ -2750,14 +3014,16 @@
                   "name": "Пунктуация в сложном предложении и предложении с однородными членами",
                   "total": 10,
                   "solved": 0,
-                  "input_max": 10
+                  "input_max": 10,
+                  "favorites": []
                 },
                 {
                   "id": "russian-16-sub-2",
                   "name": "Пунктуация в сложносочиненном предложении и в предложении с однородными членами",
                   "total": 115,
                   "solved": 0,
-                  "input_max": 115
+                  "input_max": 115,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 125
@@ -2774,7 +3040,8 @@
                   "name": "Знаки препинания в предложениях с обособленными членами",
                   "total": 218,
                   "solved": 0,
-                  "input_max": 218
+                  "input_max": 218,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 218
@@ -2791,7 +3058,8 @@
                   "name": "Знаки препинания в словах и конструкциях, не связанных с членами предложения",
                   "total": 213,
                   "solved": 0,
-                  "input_max": 213
+                  "input_max": 213,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 213
@@ -2808,7 +3076,8 @@
                   "name": "Знаки препинания в сложноподчиненном предложении",
                   "total": 232,
                   "solved": 0,
-                  "input_max": 232
+                  "input_max": 232,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 232
@@ -2825,7 +3094,8 @@
                   "name": "Знаки препинания в сложных предложениях с разными видами связи",
                   "total": 108,
                   "solved": 0,
-                  "input_max": 108
+                  "input_max": 108,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 108
@@ -2842,7 +3112,8 @@
                   "name": "Пунктуационный анализ предложений",
                   "total": 112,
                   "solved": 0,
-                  "input_max": 112
+                  "input_max": 112,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 112
@@ -2859,7 +3130,8 @@
                   "name": "Изобразительно-выразительные средства русского языка",
                   "total": 71,
                   "solved": 0,
-                  "input_max": 71
+                  "input_max": 71,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 71
@@ -2876,7 +3148,8 @@
                   "name": "Информационно-смысловая переработка прочитанного текста",
                   "total": 111,
                   "solved": 0,
-                  "input_max": 111
+                  "input_max": 111,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 111
@@ -2893,7 +3166,8 @@
                   "name": "Информативность текста. Виды информации в тексте. Типы речи",
                   "total": 139,
                   "solved": 0,
-                  "input_max": 139
+                  "input_max": 139,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 139
@@ -2910,7 +3184,8 @@
                   "name": "Лексикология и фразеология",
                   "total": 109,
                   "solved": 0,
-                  "input_max": 109
+                  "input_max": 109,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 109
@@ -2927,14 +3202,16 @@
                   "name": "Средства связи предложений в тексте",
                   "total": 109,
                   "solved": 0,
-                  "input_max": 109
+                  "input_max": 109,
+                  "favorites": []
                 }
               ],
               "subtopics_total": 109
             }
           ]
         }
-      ]
+      ],
+      "vocabularyWords": []
     }
   },
   "extraction_summary": {
