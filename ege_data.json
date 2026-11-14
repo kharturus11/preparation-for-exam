@@ -1273,9 +1273,22 @@
                   "id": "mathematics-3-sub-1",
                   "name": "Призма",
                   "total": 111,
-                  "solved": 0,
+                  "solved": 39,
                   "input_max": 111,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwgero4u250i",
+                      "url": "https://100points.ru/bank/ege/math/task-16326/"
+                    },
+                    {
+                      "id": "fav-mwgftbhbgwrp",
+                      "url": "https://100points.ru/bank/ege/math/task-16268/"
+                    },
+                    {
+                      "id": "fav-mwgi2imtr6o9",
+                      "url": "https://100points.ru/bank/ege/math/task-16302/"
+                    }
+                  ]
                 },
                 {
                   "id": "mathematics-3-sub-2",
