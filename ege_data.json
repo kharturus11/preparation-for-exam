@@ -1294,17 +1294,35 @@
                   "id": "mathematics-3-sub-2",
                   "name": "Пирамида",
                   "total": 43,
-                  "solved": 0,
+                  "solved": 21,
                   "input_max": 43,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwhrkv68u1fq",
+                      "url": "https://100points.ru/bank/ege/math/task-11378/"
+                    },
+                    {
+                      "id": "fav-mwhrqbxnkziw",
+                      "url": "https://100points.ru/bank/ege/math/task-16317/"
+                    }
+                  ]
                 },
                 {
                   "id": "mathematics-3-sub-3",
                   "name": "Тела вращения",
                   "total": 176,
-                  "solved": 0,
+                  "solved": 9,
                   "input_max": 176,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwhu9ya9ajf0",
+                      "url": "https://100points.ru/bank/ege/math/task-96294/"
+                    },
+                    {
+                      "id": "fav-mwhusxl8zjc1",
+                      "url": "https://100points.ru/bank/ege/math/task-109159/"
+                    }
+                  ]
                 }
               ],
               "subtopics_total": 330
@@ -3227,22 +3245,4 @@
       "vocabularyWords": []
     }
   },
-  "extraction_summary": {
-    "physics": {
-      "tasks": 26,
-      "subtopics": 110
-    },
-    "mathematics": {
-      "tasks": 18,
-      "subtopics": 71
-    },
-    "informatics": {
-      "tasks": 27,
-      "subtopics": 60
-    },
-    "russian": {
-      "tasks": 26,
-      "subtopics": 27
-    }
-  }
-}
+ 
