@@ -85,17 +85,43 @@
                   "id": "physics-2-sub-2",
                   "name": "Закон всемирного тяготения",
                   "total": 47,
-                  "solved": 7,
+                  "solved": 21,
                   "input_max": 47,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwjdap14z041",
+                      "url": "https://100points.ru/bank/ege/phys/task-110228/"
+                    },
+                    {
+                      "id": "fav-mwjdvcp52f0q",
+                      "url": "https://100points.ru/bank/ege/phys/task-17530/"
+                    },
+                    {
+                      "id": "fav-mwjdzpa0irup",
+                      "url": "https://100points.ru/bank/ege/phys/task-17532/"
+                    }
+                  ]
                 },
                 {
                   "id": "physics-2-sub-3",
                   "name": "Динамика и законы Ньютона",
                   "total": 97,
-                  "solved": 0,
+                  "solved": 18,
                   "input_max": 97,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwjfa2ezhwrx",
+                      "url": "https://100points.ru/bank/ege/phys/task-109821/"
+                    },
+                    {
+                      "id": "fav-mwjg11sfswhy",
+                      "url": "https://100points.ru/bank/ege/phys/task-73723/"
+                    },
+                    {
+                      "id": "fav-mwjgn7faph6s",
+                      "url": "https://100points.ru/bank/ege/phys/task-109806/"
+                    }
+                  ]
                 },
                 {
                   "id": "physics-2-sub-4",
