@@ -106,7 +106,7 @@
                   "id": "physics-2-sub-3",
                   "name": "Динамика и законы Ньютона",
                   "total": 97,
-                  "solved": 18,
+                  "solved": 35,
                   "input_max": 97,
                   "favorites": [
                     {
@@ -120,6 +120,18 @@
                     {
                       "id": "fav-mwjgn7faph6s",
                       "url": "https://100points.ru/bank/ege/phys/task-109806/"
+                    },
+                    {
+                      "id": "fav-mwk37l0ojg8m",
+                      "url": "https://100points.ru/bank/ege/phys/task-109815/"
+                    },
+                    {
+                      "id": "fav-mwk3h2iry2st",
+                      "url": "https://100points.ru/bank/ege/phys/task-74295/"
+                    },
+                    {
+                      "id": "fav-mwk3rqnya6fs",
+                      "url": "https://100points.ru/bank/ege/phys/task-73853/"
                     }
                   ]
                 },
@@ -127,7 +139,7 @@
                   "id": "physics-2-sub-4",
                   "name": "Упругость и закон Гука",
                   "total": 59,
-                  "solved": 0,
+                  "solved": 14,
                   "input_max": 59,
                   "favorites": []
                 },
