@@ -2067,9 +2067,18 @@
                   "id": "informatics-2-sub-1",
                   "name": "Базовые случаи построения таблица истинности",
                   "total": 145,
-                  "solved": 0,
+                  "solved": 11,
                   "input_max": 145,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwp2mfd7zm6l",
+                      "url": "https://100points.ru/bank/ege/info/task-66011/"
+                    },
+                    {
+                      "id": "fav-mwp444upiujj",
+                      "url": "https://100points.ru/bank/ege/informatics/task-66032/"
+                    }
+                  ]
                 },
                 {
                   "id": "informatics-2-sub-2",
