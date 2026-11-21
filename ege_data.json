@@ -1349,7 +1349,7 @@
                   "id": "mathematics-3-sub-3",
                   "name": "Тела вращения",
                   "total": 176,
-                  "solved": 9,
+                  "solved": 30,
                   "input_max": 176,
                   "favorites": [
                     {
@@ -1376,9 +1376,30 @@
                   "id": "mathematics-4-sub-1",
                   "name": "Теоремы о вероятностях событий",
                   "total": 28,
-                  "solved": 0,
+                  "solved": 13,
                   "input_max": 28,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwqk0scmpsfw",
+                      "url": "https://100points.ru/bank/ege/math/task-112903/"
+                    },
+                    {
+                      "id": "fav-mwqkdugf5xb4",
+                      "url": "https://100points.ru/bank/ege/math/task-112906/"
+                    },
+                    {
+                      "id": "fav-mwqkjyjz2dpp",
+                      "url": "https://100points.ru/bank/ege/math/task-113092/"
+                    },
+                    {
+                      "id": "fav-mwqkzakoheps",
+                      "url": "https://100points.ru/bank/ege/math/task-113096/"
+                    },
+                    {
+                      "id": "fav-mwqlbkrjhhd1",
+                      "url": "https://100points.ru/bank/ege/math/task-113089/"
+                    }
+                  ]
                 },
                 {
                   "id": "mathematics-4-sub-2",
