@@ -1376,7 +1376,7 @@
                   "id": "mathematics-4-sub-1",
                   "name": "Теоремы о вероятностях событий",
                   "total": 28,
-                  "solved": 13,
+                  "solved": 28,
                   "input_max": 28,
                   "favorites": [
                     {
@@ -1405,15 +1405,20 @@
                   "id": "mathematics-4-sub-2",
                   "name": "Классическое определение вероятности",
                   "total": 181,
-                  "solved": 0,
+                  "solved": 22,
                   "input_max": 181,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwrlo4qr6jaa",
+                      "url": "https://100points.ru/bank/ege/math/task-10811/"
+                    }
+                  ]
                 },
                 {
                   "id": "mathematics-4-sub-3",
                   "name": "Вероятность противоположного события",
                   "total": 66,
-                  "solved": 0,
+                  "solved": 9,
                   "input_max": 66,
                   "favorites": []
                 }
