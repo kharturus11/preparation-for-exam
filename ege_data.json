@@ -139,7 +139,7 @@
                   "id": "physics-2-sub-4",
                   "name": "Упругость и закон Гука",
                   "total": 59,
-                  "solved": 14,
+                  "solved": 16,
                   "input_max": 59,
                   "favorites": []
                 },
@@ -147,9 +147,18 @@
                   "id": "physics-2-sub-5",
                   "name": "Равнодействующая сил",
                   "total": 20,
-                  "solved": 0,
+                  "solved": 13,
                   "input_max": 20,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwtgk54fclvl",
+                      "url": "https://100points.ru/bank/ege/phys/task-74217/"
+                    },
+                    {
+                      "id": "fav-mwth5qn9hkzl",
+                      "url": "https://100points.ru/bank/ege/phys/task-74139/"
+                    }
+                  ]
                 }
               ],
               "subtopics_total": 265
@@ -165,7 +174,7 @@
                   "id": "physics-3-sub-1",
                   "name": "Закон сохранения импульса, второй закон Ньютона в импульсной форме",
                   "total": 54,
-                  "solved": 0,
+                  "solved": 14,
                   "input_max": 54,
                   "favorites": []
                 },
@@ -173,9 +182,22 @@
                   "id": "physics-3-sub-2",
                   "name": "Импульс и закон сохранения импульса",
                   "total": 73,
-                  "solved": 0,
+                  "solved": 22,
                   "input_max": 73,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwtijd8hqy3y",
+                      "url": "https://100points.ru/bank/ege/phys/task-109753/"
+                    },
+                    {
+                      "id": "fav-mwtkqn72kw26",
+                      "url": "https://100points.ru/bank/ege/phys/task-17914/"
+                    },
+                    {
+                      "id": "fav-mwtkzljtb8rr",
+                      "url": "https://100points.ru/bank/ege/phys/task-109765/"
+                    }
+                  ]
                 },
                 {
                   "id": "physics-3-sub-3",
