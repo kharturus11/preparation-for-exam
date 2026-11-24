@@ -203,17 +203,35 @@
                   "id": "physics-3-sub-3",
                   "name": "Энергия и закон сохранения энергии",
                   "total": 89,
-                  "solved": 0,
+                  "solved": 22,
                   "input_max": 89,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwuqcrrslazo",
+                      "url": "https://100points.ru/bank/ege/phys/task-74010/"
+                    }
+                  ]
                 },
                 {
                   "id": "physics-3-sub-4",
                   "name": "Работа и мощность",
                   "total": 30,
-                  "solved": 0,
+                  "solved": 22,
                   "input_max": 30,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwurfes9qc0e",
+                      "url": "https://100points.ru/bank/ege/phys/task-17581/"
+                    },
+                    {
+                      "id": "fav-mwurzw86zvy1",
+                      "url": "https://100points.ru/bank/ege/phys/task-123224/"
+                    },
+                    {
+                      "id": "fav-mwusbaccu973",
+                      "url": "https://100points.ru/bank/ege/phys/task-74244/"
+                    }
+                  ]
                 }
               ],
               "subtopics_total": 246
@@ -237,17 +255,31 @@
                   "id": "physics-4-sub-2",
                   "name": "Статика. Равновесие тел",
                   "total": 24,
-                  "solved": 0,
+                  "solved": 15,
                   "input_max": 24,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwusmy7otuzz",
+                      "url": "https://100points.ru/bank/ege/phys/task-110518/"
+                    },
+                    {
+                      "id": "fav-mwut4hv5cnbz",
+                      "url": "https://100points.ru/bank/ege/phys/task-126984/"
+                    }
+                  ]
                 },
                 {
                   "id": "physics-4-sub-3",
                   "name": "Гидростатика: закон Паскаля и сила Архимеда",
                   "total": 45,
-                  "solved": 0,
+                  "solved": 5,
                   "input_max": 45,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwutiyafp1x1",
+                      "url": "https://100points.ru/bank/ege/phys/task-73595/"
+                    }
+                  ]
                 },
                 {
                   "id": "physics-4-sub-4",
