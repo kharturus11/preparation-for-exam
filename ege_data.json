@@ -2146,9 +2146,9 @@
                 {
                   "id": "informatics-2-sub-1",
                   "name": "Базовые случаи построения таблица истинности",
-                  "total": 145,
-                  "solved": 11,
-                  "input_max": 145,
+                  "total": 148,
+                  "solved": 25,
+                  "input_max": 148,
                   "favorites": [
                     {
                       "id": "fav-mwp2mfd7zm6l",
@@ -2163,9 +2163,9 @@
                 {
                   "id": "informatics-2-sub-2",
                   "name": "Сложные случаи построения таблиц истинности",
-                  "total": 5,
-                  "solved": 0,
-                  "input_max": 5,
+                  "total": 8,
+                  "solved": 8,
+                  "input_max": 8,
                   "favorites": []
                 }
               ],
