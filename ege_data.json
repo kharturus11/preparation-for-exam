@@ -2146,9 +2146,9 @@
                 {
                   "id": "informatics-2-sub-1",
                   "name": "Базовые случаи построения таблица истинности",
-                  "total": 148,
+                  "total": 145,
                   "solved": 25,
-                  "input_max": 148,
+                  "input_max": 145,
                   "favorites": [
                     {
                       "id": "fav-mwp2mfd7zm6l",
@@ -2163,9 +2163,9 @@
                 {
                   "id": "informatics-2-sub-2",
                   "name": "Сложные случаи построения таблиц истинности",
-                  "total": 8,
-                  "solved": 8,
-                  "input_max": 8,
+                  "total": 5,
+                  "solved": 5,
+                  "input_max": 5,
                   "favorites": []
                 }
               ],
@@ -2182,9 +2182,22 @@
                   "id": "informatics-3-sub-1",
                   "name": "Задания на поиск и сортировку в базах данных",
                   "total": 168,
-                  "solved": 0,
+                  "solved": 23,
                   "input_max": 168,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mwxp1vsn6thf",
+                      "url": "https://100points.ru/bank/ege/informatics/task-80970/"
+                    },
+                    {
+                      "id": "fav-mwxqj7y69wd5",
+                      "url": "https://100points.ru/bank/ege/informatics/task-80778/"
+                    },
+                    {
+                      "id": "fav-mwxs0t4kvbrd",
+                      "url": "https://100points.ru/bank/ege/informatics/task-121514/"
+                    }
+                  ]
                 }
               ],
               "subtopics_total": 168
