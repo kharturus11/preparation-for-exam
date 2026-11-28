@@ -1490,9 +1490,38 @@
                   "id": "mathematics-5-sub-1",
                   "name": "Независимые события",
                   "total": 90,
-                  "solved": 0,
+                  "solved": 32,
                   "input_max": 90,
-                  "favorites": []
+                  "favorites": [
+                    {
+                      "id": "fav-mx08lm5g1sac",
+                      "url": "https://100points.ru/bank/ege/math/task-117275/"
+                    },
+                    {
+                      "id": "fav-mx092q35gkfx",
+                      "url": "https://100points.ru/bank/ege/math/task-117277/"
+                    },
+                    {
+                      "id": "fav-mx09n4t5wa0g",
+                      "url": "https://100points.ru/bank/ege/math/task-121409/"
+                    },
+                    {
+                      "id": "fav-mx09z8j63k4h",
+                      "url": "https://100points.ru/bank/ege/math/task-117288/"
+                    },
+                    {
+                      "id": "fav-mx0ak4ftg593",
+                      "url": "https://100points.ru/bank/ege/math/task-117276/"
+                    },
+                    {
+                      "id": "fav-mx0awmftdmgi",
+                      "url": "https://100points.ru/bank/ege/math/task-117283/"
+                    },
+                    {
+                      "id": "fav-mx0bk7xl1zz9",
+                      "url": "https://100points.ru/bank/ege/math/task-117287/"
+                    }
+                  ]
                 },
                 {
                   "id": "mathematics-5-sub-2",
